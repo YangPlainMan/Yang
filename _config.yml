@@ -21,11 +21,10 @@ timezone: Asia/Shanghai
 
 title: 小男孩 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 个人的一次航行 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+ 一次航行
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://Yang.github.io"
 
@@ -81,7 +80,7 @@ theme_mode: #  [light|dark]
 img_cdn: 'https://ik.imagekit.io/lr'
 
 # the avatar on sidebar, support local or CORS resources
-avatar:  '/Lonely_Reader_Social_Media_LR_Profile_Brown_BG.png'
+avatar:  'mstile-150x150.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
